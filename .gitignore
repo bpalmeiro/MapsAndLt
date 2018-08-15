@@ -1,0 +1,12 @@
+
+*.pyc
+*.o
+*.so
+*.c
+.cache
+*.egg-info
+*.sqlite3
+*.*~
+environment?.?.yml
+.DS_Store
+*.npy
